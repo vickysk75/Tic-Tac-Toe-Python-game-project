@@ -1,1 +1,4 @@
+# Tic-Tac-Toe Python game dependencies
+# No external libraries required, only standard Python 3
+python>=3.6
 
